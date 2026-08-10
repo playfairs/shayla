@@ -12,4 +12,4 @@ List of Features / Commands to impplement from **Vortex**.
 
 - AFK (Locks the Screen, or enables Screensaver.) [Configurable]
 - Translate (Takes a Screenshot of the Screen, and Auto Translates text) [Configurable]
-- Water (Reminds the FAT LAZY FUCKING CHUD to drink water) [Configurable] *ahem* "orangecheetah"
+- Water (Reminds the athletic diligent fucked chad to drink water) [Configurable] *ahem* "orangecheetah"
